@@ -1,7 +1,7 @@
 ---
 title: The Biocosmic Department of Complaints and Accusations
 date: '2018-06-15T21:05:03-07:00'
-cover: /images/uploads/ibrahim-el-salahi-untitled-1977-1982-1983.jpg
+cover: ../../../static/images/uploads/ibrahim-el-salahi-untitled-1977-1982-1983.jpg
 category: DOCAA
 author: Dept. Complaints&Accusations
 ---
